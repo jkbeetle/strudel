@@ -27,7 +27,7 @@
 - freq()
 - sound()/s() bd, hh, 
 - combine: n().s()
-- $: parallel threads, _$: pause thread, S$: Mute others
+- \$: parallel threads, _$: pause thread, S$: Mute others
 - add : adds number to note
 - scale : turn numbers into scale note
 
